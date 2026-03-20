@@ -1,9 +1,10 @@
-# dApp Development Company — Fourchain
+# dApp Development Company — Build Your Decentralized App with Fourchain
 
-> Looking for a reliable **dApp development company**?  
-> Need to **hire dApp developers** who deliver on mainnet?  
-> **[Fourchain](https://fourchain.com)** builds full-stack 
-> decentralized applications — end to end.
+> **Hire expert dApp developers** to build secure, scalable, 
+> and mainnet-ready decentralized applications on Ethereum, 
+> Polygon, Solana & more.
+> 
+> 👉 [Get a Live Demo](https://www.fourchain.com/contact-us)
 
 ---
 
@@ -60,7 +61,7 @@ When you **hire dApp developers** from us, you get:
 | Full Web3 Product | $20k – $60k+ | 12–20 weeks |
 
 > 💡 Get an exact quote for your project →  
-> 👉 **[Get a free consultation](https://www.fourchain.com/contact-us)**
+> 👉 **[Book a call for free consultation](https://calendly.com/santhosh-fourchain)**
 
 ---
 
