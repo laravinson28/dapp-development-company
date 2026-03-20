@@ -1,0 +1,61 @@
+name: 🚀 Get a Free dApp Quote
+description: Tell us about your project — we reply within 24hrs
+title: "[PROJECT] Describe your dApp idea"
+labels: ["inquiry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 👋 Welcome to Fourchain!
+        Fill in the details below and we'll get back to you within 24hrs.
+        🌍 [fourchain.com](https://fourchain.com)
+
+  - type: textarea
+    id: project
+    attributes:
+      label: What are you building?
+      description: Tell us your idea
+      placeholder: e.g., NFT marketplace, DeFi protocol, token dApp
+    validations:
+      required: true
+
+  - type: dropdown
+    id: blockchain
+    attributes:
+      label: Which blockchain?
+      options:
+        - Ethereum
+        - Polygon
+        - Solana
+        - Avalanche
+        - Not sure — need guidance
+    validations:
+      required: true
+
+  - type: dropdown
+    id: budget
+    attributes:
+      label: Budget range?
+      options:
+        - Under $5,000
+        - $5,000 – $20,000
+        - $20,000+
+        - Let's discuss
+    validations:
+      required: true
+
+  - type: input
+    id: timeline
+    attributes:
+      label: Timeline?
+      placeholder: e.g., 3 months, ASAP, flexible
+    validations:
+      required: false
+
+  - type: input
+    id: contact
+    attributes:
+      label: Your email or WhatsApp
+      placeholder: e.g., john@gmail.com or +1234567890
+    validations:
+      required: true
