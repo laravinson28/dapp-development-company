@@ -109,6 +109,9 @@ A: Yes — every contract we build goes through
 security review before mainnet deployment.
 
 ---
+## Related Projects
+
+**Prediction Market Platform Development: https://github.com/laravinson28/prediction-market-platform-development**
 
 ## Get a Free Consultation
 
